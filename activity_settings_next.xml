@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f7f7f2"
+    tools:context=".You">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Sign in/Register"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:drawableEnd="@drawable/ic_forward"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/country"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="country &amp; reigon"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Language                                                                 English"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:id="@+id/currency"
+        android:text="Currency"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_margin="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Credit balance"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Notification"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_margin="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Privacy"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_margin="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Permission"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="0dp"
+
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Safety center"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="About this app"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_margin="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Legal terms &amp; policies"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_margin="0dp"
+        android:drawableEnd="@drawable/ic_forward"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#ffffff"
+        android:text="Share this app"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="0dp"
+
+        android:drawableEnd="@drawable/ic_forward"/>
+
+
+
+</LinearLayout>
